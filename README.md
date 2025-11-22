@@ -2,22 +2,9 @@
 
 This repository contains exercises and examples from a course on SOLID principles and Design Patterns.
 
-## Project Structure
-
-```
-patterns/
-├── oop_refresher/          # Object-Oriented Programming refresher exercises
-│   ├── contracts.py        # Abstract classes and interfaces
-│   └── book_authorship.py  # Class relationships and composition
-├── .flake8                 # Flake8 linting configuration
-├── .gitignore              # Git ignore rules
-├── Makefile                # Common development tasks
-└── README.md               # This file
-```
-
 ## Requirements
 
-- Python 3.7+
+- Python 3.13+
 - flake8 (for linting)
 
 ## Installation
